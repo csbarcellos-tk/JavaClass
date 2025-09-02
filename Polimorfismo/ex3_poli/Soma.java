@@ -1,4 +1,4 @@
 package ex3_poli;
 
-public class Main {
+public class Soma {
 }

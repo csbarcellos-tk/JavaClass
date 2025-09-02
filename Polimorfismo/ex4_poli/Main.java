@@ -1,4 +1,4 @@
-package ex3_poli;
+package ex4_poli;
 
 public class Main {
 }
