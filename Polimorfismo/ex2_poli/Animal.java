@@ -1,4 +1,4 @@
 package ex2_poli;
 
-public record Animal() {
+public interface Animal {
 }
